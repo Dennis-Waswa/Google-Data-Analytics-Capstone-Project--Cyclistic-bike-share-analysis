@@ -1,6 +1,5 @@
 # Google-Data-Analytics-Capstone-Project--Cyclistic-bike-share-analysis
-This Github repository contains my analysis of the Cyclistic capstone project from the This site was built using [Google Data Analytics Professional Course.
-](https://www.coursera.org/professional-certificates/google-data-analytics).
+This Github repository contains my analysis of the Cyclistic capstone project from the [Google Data Analytics Professional Course.](https://www.coursera.org/professional-certificates/google-data-analytics).
 
 ## About the company 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of more than 5,800 bicycles that are geotracked and locked into a network of more than 600 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
